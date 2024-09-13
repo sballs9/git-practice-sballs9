@@ -1,0 +1,239 @@
+  393  git clone https://github.com/rhodes-byu/RF-Imputation.git
+  394  git clone https://github.com/rhodes-byu/RF-Imputation.git
+  395  git clone git@github.com:rhodes-byu/RF-Imputation.git
+  398  git clone git@github.com:rhodes-byu/RF-Imputation.git
+  402  git status
+  403  git pull
+  406  git pull
+  412  git status
+  413  git add rfgap_imputation.ipynb
+  414  git status
+  415  git commit -m "[RF-GAP Imputation Function]"
+  416  git status
+  417  git push
+  418  git push
+  419  git add rfgap_imputation.ipynb
+  420  git status
+  421  git push
+  422  git commit 'iteration updates'
+  423  git commit -m 'Update with iteration'
+  424  git add rfgap_imputation.ipynb
+  425  git status
+  426  git commit -m 'update with iteration function'
+  427  git push origin main
+  428  git reset --hard HEAD~3
+  429  git reflog
+  430  git reset --hard 9cd84ea
+  431  git status
+  432  git add rfgap_imputation.ipynb
+  433  git commit -m 'iteration update'
+  434  git push origin main --force
+  435  git add rfgap_imputation.ipynp
+  436  git add rfgap_imputation.ipynb
+  437  git commit -m 'clean latest file update'
+  438  git push origin main
+  439  git add rfgap_imputation.ipynb
+  440  git commit -m 'data type check implementation'
+  441  git push
+  442  git status
+  443  git pull
+  445  git add rfgap_imputation_main.ipynb
+  446  git commit -m 'Latest Update: Includes working Categorical Implementation'
+  447  git push
+  448  git update
+  449  git status
+  450  git mv rfgap_imputation.ipynb rfgap_numerical_imputation.ipynb
+  451  git add -A
+  452  git status
+  453  git commit -m 'Renamed numerical implementation file, MICE implementation, added some datasets'
+  454  git push
+  472  git status
+  473  git statius
+  474  git status
+  476  git status
+  477  git add MICE_imputation.ipynb
+  478  git add rfgap_imputation_main.ipynb
+  479  git add rfgap_numerical_imputation.ipynb
+  480  git status
+  481  git add KNN_imputation.ipynb
+  482  git commit -m "latest updates to various imputation methods"
+  483  git push
+  484  git update
+  485  git status
+  486  git add MICE_imputation.ipynb
+  487  git add rfgap_imputation_main.ipynb
+  488  git commit -m 'latest updates'
+  489  git push
+  492   git add MissForest_imputation.ipynb
+  493  git add MissForest_imputation.ipynb
+  494  git add rfgap_imputation_main.ipynb
+  495  git commit -m 'MissForest and more rfgap_main updates'
+  496  git push
+  509  git status
+  510  git add 'KNN_imputation.ipynb'
+  511  git status
+  512  git add 'MICE_imputation.ipynb'
+  513  git add 'MissForest_imputation.ipynb'
+  514  git add 'rfgap_imputation_main.ipynb'
+  515  git rm 'rfgap_numerical_imputation.ipynb'
+  516  git rm -f 'rfgap_numerical_imputation.ipynb'
+  517  git add 'MissForest_iris.ipynb'
+  518  git add 'rfgap_iris.ipynb'
+  519  git status
+  520  git commit -m 'Latest rfgap implementation, addition of MissForest method, updates to existing methods, and some files for testing'
+  521  git push
+  523  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  558  git init
+  559  git remote add origin https://github.com/sballs9/sballs.github.io
+  560  git remote -v
+  561  git fetch origin
+  562  git fetch origin
+  563  git merge origin/main
+  564  git add .\n
+  565  git commit -m "Add initial website files"
+  566  git push -u origin main
+  593  git init\ngit add .\ngit commit -m "Initial commit with new Jekyll site"\ngit branch -M main\ngit remote add origin https://github.com/sballs9/sballs.github.io
+  594  git push -u origin main
+  597  git push -u origin main
+  598  git fetch origin
+  599  git merge origin/main
+  600  git fetch origin
+  601  git merge origin/main --allow-unrelated-histories
+  604  git clone https://github.com/sballs9/sballs.github.io
+  607  git add .\ngit commit -m "Initial Jekyll site setup with Minima theme"
+  608  git init
+  609  git add .\ngit commit -m "Initial Jekyll site setup with Minima theme"
+  610  git remote add origin https://github.com/sballs9/sballs.github.io
+  611  git push -u origin main
+  612  git fetch origin
+  613  git rebase origin/main
+  614  git commit -m "Resolve merge conflicts"
+  615  git push origin main
+  618  git init sballs.github.io
+  619  cd sballs.github.io
+  623  cd sballs.github.io
+  629  git add .
+  630  git commit -m "Initial Site'\n\n"
+  631  $ git remote add origin https://github.com/sballs9/sballs.github.io.git
+  632  git remote add origin https://github.com/sballs9/sballs.github.io.git
+  633  git push -u origin docs
+  634  git push -u origin main
+  635  git fetch origin
+  636  git merge origin/main
+  637  git pull origin main --allow-unrelated-histories
+  638  git merge origin/main --allow-unrelated-histories
+  639  git add -u
+  641  git status
+  642  git add -u
+  643  git commit -m "Remove unnecessary files"
+  644  git push origin main
+  645  git pull
+  646  git config pull.rebase false
+  647  git push origin main
+  648  git pull
+  650  git status
+  651  git update
+  652  git add testing_supervised.ipynb
+  653  git add testing_unsupervised.ipynb
+  654  git add unsupervised_troubleshoot.ipynb
+  655  git commit -m "Adding files"
+  656  git push origin main
+  661  git clone https://github.com/sballs9/KaggleBikeShare
+  672  git --version 
+  673  git config --global user.name "Sam Balls"
+  674  git config -- global user.email 21samballs@gmail.com
+  675  git config --global user.email 21samballs@gmail.com
+  676  git config --global init.defaultBranch main
+  677  git rm unsupervised_trouleshoot.ipynb
+  678  git add testing_unsupervised.ipynb
+  679  git commit -m 'latest unsupervised update'
+  680  git push origin main
+  681  git status
+  682  git pull
+  683  git status
+  684  git add testing_supervised.ipynb
+  685  git commit -m "update supervised version"
+  686  git push origin main
+  689  mkdir git-practice-sballs9
+  692  mkdir git-practice-sballs9
+  693  cd git-practice-sballs9
+  694  git init
+  698  git statis
+  699  git status
+  702  git status
+  703  git add file_1.txt file_2.txt
+  704  git status
+  705  git commit -m "create new files"
+  706  git status
+  707  git log
+  708  git status
+  709  git add file_1.txt
+  710  git commit -m "file 1 update"
+  711  git status
+  712  git add file_2.txt
+  713  git commit -m "file 2 update"
+  714  git log
+  716  git add Readme.md
+  717  git commit -m "create Readme file\n"
+  718  git log
+  719  touch .gitignore
+  720  git add .gitignore
+  721  git commit -m "create gitignore file"
+  723  git status
+  724  git status
+  725  git checkout -b practice_branch
+  726  git branch -d practice_branch
+  727  git checkout master
+  728  git checkout main
+  729  git branch -d practice_branch
+  730  git checkout -b features
+  731  git log
+  734  cd git-practice-sballs9
+  735  git checkout features
+  737  git add new_features.txt
+  738  git commit -m "add empty file"
+  739  git add new_features.txt
+  740  git commit -m "update to new_features.txt"
+  741  git checkout main
+  743  git add file_1.txt
+  744  git commit -m "another file 1 update"
+  745  git merge features
+  748  cd git-practice-sballs9
+  749  git log
+  752  cd git-practice-sballs9
+  753  git merge features
+  754  git status
+  755  git commit -m "merging time"
+  756  git log
+  757  git add new_features.txt
+  758  git commit -m "another new_features update"
+  759  git checkout features
+  760  git add new_features.txt
+  761  git commit -m "one more new_features update"
+  762  git checkout main
+  763  git merge features
+  764  git log
+  765  git branch -d features
+  766  git remote add origingit@github.com:sballs9/git-practice-sballs9.git
+  767  git push -u origin main
+  768  git remote add origin git@github.com:sballs9/git-practice-sballs9.git\ngit branch -M main\ngit push -u origin main
+  772  git add BikeShare.R
+  773  git commit -m "updates to linear and poisson regression models"
+  774  git push origin main
+  777  mkdir git-practice-classmate
+  778  cd git-practice-classmate
+  779  git clone git@github.com:sballs9/git-practice-classmate.git
+  780  git checkout -b feature-sballs9
+  781  cd git-practice-classmate
+  782  git checkout -b feature-sballs9
+  784  git add my.features.txt
+  785  git add my_features.txt
+  786  git commit -m "update my_features.txt"
+  787  git push origin feature-sballs9
+  788  git pull
+  791  cd git-practice-sballs9
+  792  git pull
+  795  git-pracitce-sballs9
+  796  git-practice-sballs9
+  797  cd git-practice-sballs9
+  798  git log --oneline > gitlog.txt

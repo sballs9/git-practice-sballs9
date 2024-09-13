@@ -1,0 +1,14 @@
+fe9d110 Merge pull request #1 from alexiacw11/main
+554ca82 added a file
+6ef31dc Merge branch 'features'
+27de9c2 one more new_features update
+d47af34 another new_features update
+d8ba507 merging time
+d2f800f another file 1 update
+dce0f31 update to new_features.txt
+3d9e50b add empty file
+e8a7aa6 create gitignore file
+859bf7a create Readme file
+2d49f99 file 2 update
+4de9b30 file 1 update
+4265caf create new files
